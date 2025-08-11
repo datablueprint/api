@@ -67,8 +67,8 @@
 ## 📬 业务咨询  
 获取定制方案或API文档：  
 - **官网**：[https://blueprint.wpchell.com](https://blueprint.wpchell.com)  
-- **商务邮箱**: lantu@datablueprint.cn  
-- **技术支持微信**: pchell11
+- **邮箱**: lantu@datablueprint.cn  
+- **微信**: pchell11
 - **QQ**: 1098441010
 - **TG**: wpchell333 
 > *注：本服务仅限符合平台条款及数据法规的合法场景使用，禁止用于隐私侵犯或商业间谍活动*  
